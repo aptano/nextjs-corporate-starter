@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_sections_assistant_forms",
+  "info": {
+    "displayName": "Assistant Form",
+    "icon": "alien",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "client": {
+      "type": "string"
+    },
+    "assistantButton": {
+      "displayName": "assistantForm",
+      "type": "component",
+      "repeatable": false,
+      "component": "links.assistant-form"
+    },
+    "clientPlaceholder": {
+      "type": "string"
+    },
+    "location": {
+      "type": "string"
+    }
+  }
+}

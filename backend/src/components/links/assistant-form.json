@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_links_assistant_forms",
+  "info": {
+    "displayName": "assistantForm",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "string"
+    },
+    "color": {
+      "type": "string"
+    },
+    "type": {
+      "type": "enumeration",
+      "enum": [
+        "primary",
+        "secondary"
+      ]
+    }
+  }
+}

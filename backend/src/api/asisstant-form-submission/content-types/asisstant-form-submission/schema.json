@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "asisstant_form_submissions",
+  "info": {
+    "singularName": "asisstant-form-submission",
+    "pluralName": "asisstant-form-submissions",
+    "displayName": "Asisstant form submission"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "client": {
+      "type": "string"
+    }
+  }
+}
